@@ -2,11 +2,11 @@
 Machine Learning Notebooks & Dashboard
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pandas)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FelixAngelMartinez/test_1)
-![GitHub last commit](https://img.shields.io/github/last-commit/FelixAngelMartinez/test_1)
-![GitHub all releases](https://img.shields.io/github/downloads/FelixAngelMartinez/test_1/total)
-![GitHub issues](https://img.shields.io/github/issues-raw/FelixAngelMartinez/test_1)
-![GitHub contributors](https://img.shields.io/github/contributors/FelixAngelMartinez/test_1)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FelixAngelMartinez/tfm_air_quality_ml_dashboard)
+![GitHub last commit](https://img.shields.io/github/last-commit/FelixAngelMartinez/tfm_air_quality_ml_dashboard)
+![GitHub all releases](https://img.shields.io/github/downloads/FelixAngelMartinez/test_1/tfm_air_quality_ml_dashboard)
+![GitHub issues](https://img.shields.io/github/issues-raw/FelixAngelMartinez/tfm_air_quality_ml_dashboard)
+![GitHub contributors](https://img.shields.io/github/contributors/FelixAngelMartinez/tfm_air_quality_ml_dashboard)
 ![GitHub followers](https://img.shields.io/github/followers/FelixAngelMartinez?style=social)
 
 ## Description
